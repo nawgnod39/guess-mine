@@ -1,2 +1,2 @@
 # guess-mine
-Realtime Drawing Game built with SocketIO, Gulp and node
+Realtime Drawing Game built with SocketIO, Gulp and Node
