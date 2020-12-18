@@ -1,9 +1,4 @@
-# Guess Mine
-
-Realtime Drawing Game built with SocketIO, Gulp and Node
-
-
-## To Do:
+# Guess Mine Test Stage
 
 - [x] Server
 - [x] Pug
